@@ -1,0 +1,14 @@
+{
+    "name": "node_1_nadzeya",
+    "version": "1.0.0",
+    "description": "install_checking",
+    "main": "index.js",
+    "author": "Nadzeya Amialchuck",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/timoshenkovanadya/node_1.git"
+    },
+    "dependencies": {
+        "node_1_pack_nadzeya": "^1.0.0"
+    }
+}
