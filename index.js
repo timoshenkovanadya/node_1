@@ -1,4 +1,4 @@
-const calculate = require('node_1_pack_nadzeya');
+const calculate = require('node_1_pack_no');
 const examples = [
     '15 9 + 10 - 14 - 7 * 5 14 * 14 - *',
     '8 2 15 * + 8 - 13 * 15 - 6 6 13 + + -',
